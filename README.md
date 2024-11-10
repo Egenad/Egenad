@@ -8,10 +8,8 @@
 ##
 
 
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/angeljterol) 
-<div> 
-  <a href="https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angeljterol)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/)
+  
 What I'm currently working on:
   
 - 🖥️ Dungeon Crawler made in UE5/C++.
