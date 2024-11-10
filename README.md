@@ -8,7 +8,7 @@
 ##
 
 <div> 
-  <a href="https://x.com/angeljterol" target="_blank"><img src="https://img.shields.io/badge/-X-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://x.com/angeljterol" target="_blank"><img src="https://img.shields.io/badge/-X-%23000000?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 What I'm currently working on:
