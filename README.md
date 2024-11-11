@@ -7,9 +7,9 @@
 
 ##
 
+[![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](https://x.com/angeljterol)
+[![medium-light-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/)
 
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/angeljterol)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/)
-  
 What I'm currently working on:
   
 - 🖥️ Dungeon Crawler made in UE5/C++.
