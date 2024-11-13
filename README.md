@@ -7,8 +7,8 @@
 
 ##
 
-[![medium-light-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter-x.svg)](https://x.com/angeljterol)
-[![medium-light-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/)
+[![medium-filled-twitter-x](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://x.com/angeljterol)
+[![medium-filled-linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/%C3%A1ngel-jes%C3%BAs-terol-mart%C3%ADnez-052640187/)
 
 What I'm currently working on:
   
