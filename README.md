@@ -15,4 +15,4 @@ What I'm currently working on:
 - 🖥️ Dungeon Crawler made in UE5/C++.
 - 📚 Learning Kotlin and Swift as part of a master's program at university.
 - 📱 Android native app for a Game Boy emulator.
-- ⌨️ Backend Java developer for Systems, Servers and Solutions SL.
+- ⌨️ Backend Python developer for Minos Global.
